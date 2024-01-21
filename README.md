@@ -9,7 +9,7 @@
 
 ## Description
 
-The Password Generator is a Python script, created by Jim Grysmpolakis(JimmtVS) that leverages the Tkinter library to create an interactive and user-friendly graphical user interface for generating random passwords. Users can easily customize password settings, including length, complexity, and character set inclusions. The script also provides an option to save generated passwords to a text file.
+The Password Generator is a Python script, created by Jim Grysmpolakis(JimmyVS) that leverages the Tkinter library to create an interactive and user-friendly graphical user interface for generating random passwords. Users can easily customize password settings, including length, complexity, and character set inclusions. The script also provides an option to save generated passwords to a text file.
 
 ## Features
 
